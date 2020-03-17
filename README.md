@@ -32,6 +32,8 @@
 	To start running a client to connect and factorize numbers, run the following command:
 		curran$ ./main_server/src/tcpclient 127.0.0.1 5050
 
+	<b>Ensure that you run start_servers.sh before starting slave nodes (otherwise, slave nodes won't be able to connect to coordinator)</b>
+	
 ### Stopping:
 	To stop the servers, run the following command:
 		curran$ bash stop_servers.sh
