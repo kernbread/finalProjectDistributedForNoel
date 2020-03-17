@@ -2,7 +2,7 @@
 ## By: Brian Curran, Matt Eilertson, and John Beighle
 
 ### This directory contains the following components:
-	1. Coordinator: job scheduler and communication medium between main server and slave nodes.\
+	1. Coordinator: job scheduler and communication medium between main server and slave nodes.
 		- by default, runs on 127.0.0.1:9999\
 	2. Main Server: server that handles all client connections to factoring system.\
 		- by default, runs on 127.0.0.1:5050\
