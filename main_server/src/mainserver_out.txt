@@ -1,0 +1,4 @@
+Binding server to 127.0.0.1 port 5050
+Connecting to the Coordinator 
+ListeningToClients
+Server shut down

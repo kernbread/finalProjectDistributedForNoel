@@ -1,0 +1,41 @@
+Binding server to 127.0.0.1 port 5050
+Connecting to the Coordinator 
+ListeningToClients
+***Got a connection***
+id = 0
+sending FACTOR_REQ|0|15
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|32423415
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|939423491341
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|991919133221
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|43212
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|2222222222222222
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|222222222222222222
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|11111111111111111111111111
+There is a response from coord...
+clientId = 0
+id = 0
+sending FACTOR_REQ|0|111111111111111111111111111111111111
+There is a response from coord...
+clientId = 0
+Connection disconnected.

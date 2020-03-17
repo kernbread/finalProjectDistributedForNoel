@@ -1,0 +1,225 @@
+Connecting to 127.0.0.1 port 9999
+Bound client
+Connection established.
+received: POLLARD_REQ|32|3|15
+Prime Found: 3
+Factoring: 5
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 5
+Checking if prime: 5
+Prime found: 5
+received: POLLARD_REQ|27received: POLLARD_REQ|33|3|15
+Prime Found: 3
+Factoring: 5
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 5
+Checking if received: CANCEL_REQ|27
+received: POLLARD_REQ|29received: POLLARD_REQ|34|3|15
+Prime Found: 3
+Factoring: 5
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 5
+Checking if received: POLLARD_REQ|27receiveFactoring: 437
+Streceived: POLLARD_REQ|28|3|437
+Factoring: 437
+Starting iteration: 0
+Divisor found: 23
+Factoring: 23
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 23
+Checking if prime: 23
+Prime found: 23
+Factoring: 19
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is received: POLLARD_REQ|27|3|3161
+Factoring: 3161
+Starting iteration: 0
+Direceived: POLLARD_REQ|26|3|3161
+Factoring: 3161
+Starting iteration: 0
+Divisor found: 29
+Factoring: 29
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 29
+Checking if prime: 29
+Prime found: 29
+Factoring: 109
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checkingreceived: POLLARD_REQ|27|3|2141241134421
+Prime Found: 3
+Factoring: 713747044807
+Starting iteratireceived: POLLARD_REQ|31|3|2141241134421
+Prime Found: 3
+Factoring: 713747044807
+Starting iteration: 0
+Divisor found: 23
+Factoring: 23
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 23
+Checking Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+PollardStarting iteration: 7
+rereceived: POLLARD_REQ|34|3|93932991928312891291
+Factoring: 93932991928312891291
+Starting iteration: 0
+Divisor found: 7
+Factoring: 7
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 7
+Checking if prime: 7
+Prime found: 7
+Factoring: 13418998846901841613
+Starting iteration: 0
+Divisor found: 7
+Factoring: 7
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 7
+Checking if prime: 7
+Prime found: 7
+Factoring: 1916999835271691659
+Starting iteration: 0
+Divisor found: 3223757
+Factoring: 3223757
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+Starting iteration: 7
+Starting iteration: 8
+Starting iteration: 9
+Starting iteration: 10
+Pollards rho timed out, checking if the following is prime: 3223757
+Checking if prime: 3223757
+Prime found: 3223757
+Factoring: 594647746487
+Starting iteration: 0
+Starting iteration: 1
+Starting iteration: 2
+Starting iteration: 3
+Starting iteration: 4
+Starting iteration: 5
+Starting iteration: 6
+received: CANCEL_REQ|26
+ceived: CANCEL_REQ|28
+arting iteration: 9
+received: CANCEL_REQ|32
+arting iteration: 10
+Pollards rho timed out, checking if the following is prime: 594647746487
+CheStarting iteration: 10
+Pollards rho timed out, checkingreceived: CANCEL_REreceived: CANCEL_REQ|33
+ecking if prime: 594647746487
+Prime found: 594647746487
+received: CANCEL_REQ|27
+f prime: 594647746487
+Prime found: 594647746487
+received: CANCEL_REQ|29
